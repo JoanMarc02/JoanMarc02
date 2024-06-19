@@ -2,8 +2,6 @@
 
 **JoanMarc02/JoanMarc02** is a ✨ _special_ ✨ repository.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Technical Audiovisual company, including sound engineering, video production, and multimedia presentations.
 - 🌱 I’m currently learning about advanced editing software and techniques to enhance my audiovisual skills.
 - 💬 Ask me about sound design, video editing, and best practices for live event production.
